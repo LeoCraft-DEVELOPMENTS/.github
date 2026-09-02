@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>LeoCraft</h1>
+<img height=200,  src="Leocraft_logo_v4_transparent.png"/>
+
+<h1>LeoCraft - Developers</h1>
 
 <h3>Built with purpose. Crafted with precision.</h3>
 
