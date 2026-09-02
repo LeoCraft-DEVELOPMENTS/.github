@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🦁 LeoCraft</h1>
+<h1>LeoCraft</h1>
 
 <h3>Built with purpose. Crafted with precision.</h3>
 
